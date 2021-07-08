@@ -1,4 +1,4 @@
-[![Header](https://github.com/Barankaslon/barankaslon/blob/main/assets/PinClipart.png)]
+![Header](https://github.com/Barankaslon/barankaslon/blob/main/assets/PinClipart.png)
 
 ## Hi, I'm Alexey Gvozdev, a passionate self-taught Software developer
 
